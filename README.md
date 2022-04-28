@@ -10,7 +10,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [The challenge](#the-challenge)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -29,12 +28,6 @@ Users should be able to:
 - Vanila css
 - Flexbox
 - Mobile-first workflow -> Laptop (min 1000px) -> 4K   Laptops (min 2300px)
-
-
-### Continued development
-
-I'm still new to making responsive web although this project is. Moving forward I would have dive deep and learn more on how to use media queries
-
 
 ## Author
 
